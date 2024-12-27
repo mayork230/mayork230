@@ -3,13 +3,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **enhancing data analytics processes and optimizizing performance metrics**
-- 🌱 I’m currently learning **advanced machine learning techniques and deepening my knowledge of data** visualization tools.
-- 👯 I’m looking to collaborate on innovative data science projects that drives business growth and efficiency.
-- 🤔 I’m looking for help with exploring new methodologies for predictive analytics and collaboration on data projects.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **advanced machine learning techniques and deepening my knowledge of data visualization tools**
+- 👯 I’m looking to collaborate on **innovative data analytics projects that drives business growth and efficiency**
+- 🤔 I’m looking for help with **exploring new methodologies for predictive analytics and collaboration on data projects**
+- 💬 Ask me about **Data Analysis, Data Visualization, and how to turn complex data into actionable insights**
+- 📫 How to reach me: **mkolapo165@gmail.com** **www.linkedin.com/in/mayowa-kolapo-093574226**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I have a knack for finding patterns in Data that others might overlook!**
 
 
 
