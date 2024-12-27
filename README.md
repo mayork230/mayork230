@@ -1,17 +1,13 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **enhancing data analytics processes and optimizizing performance metrics**
 - 🌱 I’m currently learning **advanced machine learning techniques and deepening my knowledge of data visualization tools**
 - 👯 I’m looking to collaborate on **innovative data analytics projects that drives business growth and efficiency**
 - 🤔 I’m looking for help with **exploring new methodologies for predictive analytics and collaboration on data projects**
 - 💬 Ask me about **Data Analysis, Data Visualization, and how to turn complex data into actionable insights**
-- 📫 How to reach me: **mkolapo165@gmail.com** **www.linkedin.com/in/mayowa-kolapo-093574226**
+- 📫 How to reach me: **mkolapo165@gmail.com** 
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a knack for finding patterns in Data that others might overlook!**
-
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mayowa-kolapo-093574226) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mkolapo165) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/mayorkay230) 
